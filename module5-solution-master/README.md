@@ -6,4 +6,4 @@ Coursera course: HTML, CSS, and Javascript for Web Developers
 
 
 
-https://rvamshi1711.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/module2-solution-master/index.html
+
